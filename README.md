@@ -1,4 +1,4 @@
-# Data Science Lab (2025/26)
+# Data Science Lab (2024/25)
 
 This repository contains projects and code created for the **Data Science** (Analityka Danych) course at Jagiellonian University.
 
